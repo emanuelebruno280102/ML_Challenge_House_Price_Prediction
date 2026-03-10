@@ -1,0 +1,4 @@
+Modelo,RMSE (Cross-Validation),Desviación (Std)
+Lasso Optimizado,0.1136,0.007
+XGBoost Optimizado,0.1166,0.0068
+Ensemble (Media 50/50),0.11043814289252159,0.006791401812127184
